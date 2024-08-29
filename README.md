@@ -1,0 +1,2 @@
+# HackerMindSet
+Exercises of faculdade 
