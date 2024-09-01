@@ -41,4 +41,8 @@ terceiro ingrediente: fleeb juice
 ![Screenshot_5](https://github.com/user-attachments/assets/848c8128-5e50-44ff-9e50-d87e66a6b3a3)
 
 #Aqui segue o mapeamento da conclusão de um CTF, tudo isso me maneira resumida
+![Screenshot_5](https://github.com/user-attachments/assets/8effdef2-9fc3-4f93-a02d-f869259b5c4f)
+
+![Screenshot_6](https://github.com/user-attachments/assets/e15c9512-2bc6-4bdf-b6d7-9285f4269865)
+
 
